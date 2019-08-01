@@ -2,7 +2,7 @@
 Twillo SMS and CALL API implemetation
 
 # Steps
-Delete composer.json file and run below command
+Run below command to install twillo php sdk
 
 ``
 composer install
